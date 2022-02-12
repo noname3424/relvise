@@ -46,12 +46,11 @@ p{
     margin-right: 21px;
   
 }
-.headar12{
+.menu-nav{
     display: flex;
     flex-wrap: wrap
-    
 }
-.headar{
+.header{
     background:url("../img/background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
